@@ -1,53 +1,44 @@
 # Horiseon
+ 
+ ## Usage
+  
+ This informational website was made for my class, to learn SEO (Search Engine Optimization), Online Reputation Management, and Social Media Marketing, and how to refactor code.
 
-* [**Search Engine Optimization**][search engine optimization]
-* [**Online Reputation Management**][online reputation management]
-* [**Social Media Marketing**][social media marketing]
+ ### Key Topics
+ 
+ * SEO (Search Engine Optimization)
+ * Online Reputation Management
+ * Social Media Marketing
+ * Lead Generation
+ * Brand Awareness 
+ * Cost Management
+ 
+ ### Development
 
-![Digital Marketing Meeting](./assets/images/digital-marketing-meeting.jpg)
+ This website _was_ made with non-semantic HTML elements, my job was to go through the code and make sure to change them all to semantic HTML elements, and make the website more accessible. 
 
-[search engine optimization]: #search-engine-optimization
-[online reputation management]: #online-reputation-management
-[social media marketing]: #social-media-marketing
+![HoriseonScreenShot](./assets/images/horiseon.png)
 
-## Search Engine Optimization
+ #### License 
 
-![SEO:SearchEngingOptimization](./assets/images/search-engine-optimization.jpg)
+MIT License
 
-The dominance of mobile internet use means that users are searching for the right business as they travel, shop, or sit on their couch at home. Search Engine Optimization (SEO) allows you to increase your visibility and find the right customers for your business.
+Copyright (c) 2021 JAYLA NEWTON
 
-## Online Reputation Management 
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-![OnlineReputationManagement](./assets/images/online-reputation-management.jpg)
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-
-The web is full of opinions, and some of these can be negative. Social media allows anyone with an internet connection to say whatever they want about your business.
-Online Reputation Management gives you the control over what potential customers see when they search for your business.
-
-## Social Media Marketing
-
-![SocialMediaMarketing](./assets/images/social-media-marketing.jpg)
-
-Social media continues to have a sizable influence on buying habits. Social media marketing helps you determine which platforms are suited to your brand, using analytics to find the right markets and increases your lead generation.
-
-### Lead Generation
-
-![leadgeneration](./assets/images/lead-generation.png)
-
-Inbound strategies for lead generation require less work for your business, bringing customers directly to your website.
-
-### Brand Awareness
-
-![brandawareness](./assets/images/brand-awareness.png)
-
-Users find your business through paid and organic searches, increasing the search ranking and visibility for your business.
-
-### Cost Management
-
-![costmanagement](./assets/images/cost-management.png)
-
-As the search ranking for your business increases, your advertising costs decrease, and you no longer need to advertise your page.
-
-#### Made with ❤️️ by Horiseon
-
-&copy; 2019 Horiseon Social Solution Services, Inc.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
