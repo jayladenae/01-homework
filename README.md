@@ -3,7 +3,7 @@
  [https://jayladenae.github.io/Horiseon/](https://jayladenae.github.io/Horiseon/)
  
  ## Description
- A website simple one page website that explains SEO (Search Engine Optimization), Online Reputation Management, and Social Media Marketing. 
+ A simple one page website that explains SEO (Search Engine Optimization), Online Reputation Management, and Social Media Marketing. 
 
  ## User Story 
  ```
