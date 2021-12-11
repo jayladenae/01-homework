@@ -1,44 +1,27 @@
 # Horiseon
  
- ## Usage
-  
- This informational website was made for my class, to learn SEO (Search Engine Optimization), Online Reputation Management, and Social Media Marketing, and how to refactor code.
+ ## Description
+ A website simple one page website that explains SEO (Search Engine Optimization), Online Reputation Management, and Social Media Marketing. 
 
- ### Key Topics
- 
- * SEO (Search Engine Optimization)
- * Online Reputation Management
- * Social Media Marketing
- * Lead Generation
- * Brand Awareness 
- * Cost Management
- 
- ### Development
 
- This website _was_ made with non-semantic HTML elements, my job was to go through the code and make sure to change them all to semantic HTML elements, and make the website more accessible. 
+[deployed link here](google.com)
 
-![HoriseonScreenShot](./assets/images/horiseon.png)
+ ## User Story 
+ ```
+GIVEN a webpage meets accessibility standards
+WHEN I view the source code
+THEN I find semantic HTML elements
+WHEN I view the structure of the HTML elements
+THEN I find that the elements follow a logical structure independent of styling and positioning
+WHEN I view the icon and image elements
+THEN I find accessible alt attributes
+WHEN I view the heading attributes
+THEN they fall in sequential order
+WHEN I view the title element
+THEN I find a concise, descriptive title
+```
+![Screenshot of deployed app](assets/images/horiseon-screenshot.png)
 
- #### License 
+### License 
+![MIT License](https://img.shields.io/apm/l/PACK?style=plastic)
 
-MIT License
-
-Copyright (c) 2021 JAYLA NEWTON
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
